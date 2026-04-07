@@ -1,0 +1,48 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Memory captures
+MemoryCaptures/
+
+# Asset meta data (keep .meta files!)
+!*.meta
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Addressables
+ServerData/
+
+# Generated files
+*.apk
+*.aab
+*.unitypackage
+
+# Gradle
+.gradle/
